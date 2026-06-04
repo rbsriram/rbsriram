@@ -5,6 +5,6 @@
 
   No ceremony, no roadmap committee. I build it, run it, see if it holds, fix what breaks. The repos here are ugly and they work. I only care about the second part.
   
-  When I am not building, I am overthinking it in writing at Null Velocity (https://www.nullvelocity.com): essays on the odd little details of everyday life—like makeup and filter coffee—and the friction of modern tech.
+  When I am not building, I am overthinking it in writing at Null Velocity (https://www.nullvelocity.com): essays on the odd little details of everyday life-like makeup and filter coffee and the friction of modern tech.
 
   No README on a repo means it did not earn one.
