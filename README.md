@@ -1,0 +1,10 @@
+  Twenty-odd years I ran delivery inside big companies, the last ten of it on AI work, back when "AI transformation" still meant building the damn thing and not putting it on a slide. Long enough to figure out that most of the process is theater, and the
+  actual work always got done by a handful of people who gave a damn.
+
+  Now it is just me. A one-person AI product studio, building whatever has my attention that week, with a pile of AI agents doing the typing while I point them at things.
+
+  No ceremony, no roadmap committee. I build it, run it, see if it holds, fix what breaks. The repos here are ugly and they work. I only care about the second part.
+  
+  When I am not building, I am overthinking it in writing at Null Velocity (https://www.nullvelocity.com): tech, business, and the odd little details of being alive online.
+
+  No README on a repo means it did not earn one.
